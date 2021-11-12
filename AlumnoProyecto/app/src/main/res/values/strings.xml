@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AlumnoProyecto</string>
+    <string name="nombre"> Escriba un nombre</string>
+    <string name="nombre_label">Nombre</string>
+    <string name="detalle_label">Detalle</string>
+    <string name="activo">Activo</string>
+    <string name="btnPositive">Ok</string>
+    <string name="btnNegative">no</string>
+    <string name="tittle">Titulo</string>
+    <string name="message">Mi primer Ventana</string>
+    <string name="mensagePositive">He sido selecionado</string>
+    <string name="mensageNegative">no fuiste seleccionado</string>
+
+</resources>
